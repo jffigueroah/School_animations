@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/4266129954_4175154543_606519020.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1442284246_4243781150_3799081608.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1442284246_1412559483_2791622897.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1380718205_2056553933_2982934190.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1380718205_2292429055_3267881162.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1442284246_1557519005_2302352894.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1380718205_2292429055_1999558777.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1442284246_600320299_4241590943.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1380718205_2292429055_455512535.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1380718205_1934090232_148548813.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1442284246_2292429055_658722343.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/480p15/partial_movie_files/OresmeRule/1380718205_2292429055_1278315802.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/1080p60/partial_movie_files/PositionVsTime/2902699114_3190407014_1781993935.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/1080p60/partial_movie_files/PositionVsTime/3931933789_3546171138_2444579766.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/1080p60/partial_movie_files/PositionVsTime/3931933789_977374_3181455112.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/1080p60/partial_movie_files/PositionVsTime/3931933789_1680162156_615486476.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/1080p60/partial_movie_files/PositionVsTime/2365230007_511185414_647053136.mp4'
+file 'file:C:/Users/Jaison_Figueroa/Documents/ManimCE/School_animations/media/videos/School_animations/1080p60/partial_movie_files/PositionVsTime/2365230007_345352296_1664823386.mp4'
